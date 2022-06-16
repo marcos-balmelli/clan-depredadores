@@ -647,4 +647,8 @@ button#submit-button:hover {
   .contact h2 span {
     display: block;
   }
+
+  .hero {
+    min-height: 100vh;
+  }
 }
